@@ -1,2 +1,2 @@
 # VLSI
-Prácticas para diseño digitaal VLSI
+Prácticas para diseño digital VLSI
