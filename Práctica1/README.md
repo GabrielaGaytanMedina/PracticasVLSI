@@ -2,7 +2,7 @@
 Aceves Núñez Jonathan Gerardo,
 Contreras Jiménez Sergio Brian,
 Mora Magaña José David Divad,
-Orozco Montes Zaid Andrés,
+Orozco Montes Zaid Andrés.
 
 # Descripción:
 En esta práctica se implementó un contador de 8 bits mediante la utilización de una tarjeta FPGA y el lenguaje VHDL. 
