@@ -13,4 +13,4 @@ el UAV, teniendo eso en mente las salidas son 4 movimientos simples: Adelante, g
 El ejercicio mencionado previamente se implementó con un diseño que utiliza carta ASM.
 
 __Vídeo:__
-https://www.youtube.com/watch?v=ljS5naPHZCM&fbclid=IwAR179RNjkKHjPrIjOEaKhIbHZsidb0m2EmybgVMcj1ywmr8XnDGiZP3_PB0
+https://youtu.be/PFIZeo2utsw
