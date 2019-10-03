@@ -12,4 +12,4 @@ la implementación de este tipo de señales en LEDs y el control de un servomoto
 
 
 __Vídeo:__
-https://youtu.be/aIhaDuhpqUM
+https://youtu.be/TVIebQ1JGPo
