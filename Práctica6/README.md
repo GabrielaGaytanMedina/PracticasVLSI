@@ -13,3 +13,4 @@ un display de 7 segmentos.
 
 
 __Vídeo:__
+https://youtu.be/cy_cGE6r6cE
