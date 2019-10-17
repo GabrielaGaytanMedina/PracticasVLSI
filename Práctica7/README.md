@@ -6,7 +6,7 @@ __Nombres:__
 
 __Descripción:__
 
-En la presente práctica se pondrá en práctica el concepto de direccionamiento a memoria, esto es, las formas de plantear el diseño de una
+En la presente práctica se utilizará el concepto de direccionamiento a memoria, esto es, las formas de plantear el diseño de una
 memoria para acceder a sus localidades y su información, para esta actividad en particular se describió en lenguaje VHDL el 
 direccionamiento entrada-estado y por trayectoria.
 
