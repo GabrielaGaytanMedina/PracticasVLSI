@@ -12,3 +12,4 @@ direccionamiento entrada-estado y por trayectoria.
 
 
 __Vídeo:__
+https://youtu.be/JwLhzWI1Uzc
