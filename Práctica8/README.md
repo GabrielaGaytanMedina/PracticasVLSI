@@ -10,4 +10,6 @@ En esta práctica se realizó una propuesta para el proyecto final de la asignat
 
 
 __Vídeo:__
+```diff
 !EN ESTA OCASIÓN NO HAY VÍDEO.
+```
