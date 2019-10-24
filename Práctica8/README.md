@@ -10,4 +10,4 @@ En esta práctica se realizó una propuesta para el proyecto final de la asignat
 
 
 __Vídeo:__
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+)`EN ESTA OCASIÓN NO HAY VÍDEO.`
+!EN ESTA OCASIÓN NO HAY VÍDEO.
