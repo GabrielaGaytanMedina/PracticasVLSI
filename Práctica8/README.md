@@ -9,7 +9,4 @@ __Descripción:__
 En esta práctica se realizó una propuesta para el proyecto final de la asignatura. Dicha propuesta se encuentra en este mismo directorio.
 
 
-__Vídeo:__
-```diff
-!EN ESTA OCASIÓN NO HAY VÍDEO.
-```
+__Vídeo:__```diff !EN ESTA OCASIÓN NO HAY VÍDEO.```
