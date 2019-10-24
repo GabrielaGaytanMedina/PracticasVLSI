@@ -6,8 +6,8 @@ __Nombres:__
 
 __Descripción:__
 
-En esta práctica se realizó una propuesta para el proyecto final de la asignatura que se encuentra en este mismo directorio.
+En esta práctica se realizó una propuesta para el proyecto final de la asignatura. Dicha propuesta se encuentra en este mismo directorio.
 
 
 __Vídeo:__
-Para esta ocasión no hay vídeo.
+![#1589F0]EN ESTA OCASIÓN NO HAY VÍDEO.`#1589F0`
