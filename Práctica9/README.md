@@ -13,3 +13,4 @@ con un Software instalado en el equipo que permita el uso del dispositivo mencio
 
 
 __Vídeo:__
+https://www.youtube.com/watch?v=ZakfmeHR0dw&feature=youtu.be&fbclid=IwAR278pCounzlU7fDbWS_K_Qpkht30gM5MgytZchxgAG_wTDgWKFl-3FPDGA
